@@ -1,0 +1,14 @@
+
+
+# os files
+.Ds_store
+Thumbs.db
+
+#Editor temporary files
+
+*.swp
+
+
+# secrets
+.env
+env.*
