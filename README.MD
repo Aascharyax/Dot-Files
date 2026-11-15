@@ -16,7 +16,7 @@ Personal Linux configuration files.
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/dotfiles.git ~/dotfiles
+git clone https://github.com/Aascharyax/Dot-Files.git ~/dotfiles
 ```
 
 Create Neovim symlink:
