@@ -7,7 +7,7 @@ Personal Linux configuration files.
 ## Configurations
 
 - **nvim/** - Neovim configuration using LazyVim
-- **hypr/** - Hyprland configuration (planned)
+- **hypr/** - Hyprland configuration 
 - **waybar/** - Waybar configuration (planned)
 - **kitty/** - Kitty terminal configuration (planned)
 
